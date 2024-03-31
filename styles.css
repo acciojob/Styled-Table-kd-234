@@ -1,5 +1,23 @@
 /* your code */
 #tables{
-	border-collapse: collapse;
+	width:600px;
+	height:auto;
+	 border:1px solid black;
+	border-radius:9px;
 }
+tr:nth-child(even){
+	background-color:lightgray;
+	
+}
+tr,td{
+	border:none;
+	border-collapse: collapse;
+
+}
+#htable{
+	background-color:navy;
+	color:white;
+}
+
+	
 
