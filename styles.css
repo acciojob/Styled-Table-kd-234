@@ -1,12 +1,5 @@
 /* your code */
-#h{
-	color:white;
-	background-color:deepskyblue;
-}
-#s2{
-	background-color:lightgray;
-}
-#s4{
-	background-color:lightgray;
+#tables{
+	border-collapse: collapse;
 }
 
